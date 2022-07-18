@@ -1,0 +1,33 @@
+.banner {
+    background-image: url("./images/travel.jpg");
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+
+}
+
+.staff img {
+    width: 250px;
+    border: 10px solid #cccccc; 
+    object-fit: cover;
+    position: relative;
+}
+
+a.social {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: black;
+    line-height: 40px; 
+}
+
+.contact {
+    background-image: url("./images/map.jpg");
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
